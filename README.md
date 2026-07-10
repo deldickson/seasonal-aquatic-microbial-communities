@@ -23,9 +23,20 @@ This study addressed two primary questions:
 
 ## Study Sites
 
+This study used publicly available microbial community data from two National Ecological Observatory Network (NEON) freshwater stream sites in Virginia.
+
 - **Posey Creek (POSE)**
 - **Lewis Run (LEWI)**
 
+![Study Sites](figures/figure1_site_map.png)
+
+---
+
+## Sampling Overview
+
+Following quality control and temporal adjustment, samples from the two study sites were analyzed to evaluate seasonal patterns in microbial diversity and community composition.
+
+![Sampling Overview](figures/Figure2.png)
 Data Source:
 
 **NEON Data Product DP1.20141.002**
