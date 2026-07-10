@@ -1,13 +1,11 @@
 # Manuscript
 
-This folder contains the final manuscript developed for the graduate capstone project completed at Arizona State University.
+This folder contains the final graduate capstone manuscript.
 
-**Title**
+## Title
 
-*Seasonal Patterns in Aquatic Microbial Communities Across Freshwater Ecosystems*
+**Seasonal Patterns in Aquatic Microbial Communities Across Freshwater Ecosystems**
 
-The manuscript summarizes the study objectives, methodology, statistical analyses, results, discussion, and conclusions.
+The manuscript describes the study design, statistical analyses, results, and conclusions for the project.
 
-The complete manuscript is available as:
-
-`Final_Manuscript.pdf`
+This research was completed as part of the Master of Science in Biological Data Science program at Arizona State University.
