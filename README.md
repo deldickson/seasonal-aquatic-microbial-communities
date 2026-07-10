@@ -2,45 +2,109 @@
 
 Graduate capstone project completed as part of the Master of Science in Biological Data Science program at Arizona State University.
 
-## Overview
+---
 
-This project investigates seasonal variation in freshwater microbial communities using publicly available 16S rRNA sequencing data from the National Ecological Observatory Network (NEON). Community composition was evaluated across two freshwater streams in Virginia—Posey Creek (POSE) and Lewis Run (LEWI)—to determine whether seasonal microbial turnover is consistent across years and between sites.
+## Project Overview
 
-## Research Questions
+Freshwater microbial communities play a critical role in nutrient cycling and ecosystem function, yet the consistency of seasonal microbial turnover across years and between nearby freshwater systems remains poorly understood.
+
+This project evaluated seasonal patterns in microbial diversity and community composition using publicly available 16S rRNA sequencing data from the National Ecological Observatory Network (NEON). Analyses were performed using samples collected from two freshwater streams in Virginia: Posey Creek (POSE) and Lewis Run (LEWI).
+
+---
+
+## Research Objectives
+
+This study addressed two primary questions:
 
 - Does microbial alpha diversity differ by season and site?
-- Do freshwater microbial communities exhibit repeatable seasonal patterns across years?
+- Do freshwater microbial communities exhibit repeatable seasonal community structure across years?
 
-## Data Source
+---
 
-National Ecological Observatory Network (NEON)
+## Study Sites
 
-**Data Product:** DP1.20141.002 – Surface Water Microbe Community Taxonomy
+- **Posey Creek (POSE)**
+- **Lewis Run (LEWI)**
 
-**Study Sites**
-- Posey Creek (POSE)
-- Lewis Run (LEWI)
+Data Source:
+
+**NEON Data Product DP1.20141.002**
+
+Surface Water Microbe Community Taxonomy
+
+---
 
 ## Methods
 
+The analytical workflow included:
+
 - Data cleaning and quality control
 - Community matrix construction
-- Shannon diversity (Alpha Diversity)
-- Bray–Curtis dissimilarity (Beta Diversity)
+- Relative abundance calculations
+- Shannon Diversity Index (Alpha Diversity)
+- Bray–Curtis Dissimilarity (Beta Diversity)
 - Principal Coordinates Analysis (PCoA)
 - PERMANOVA
-- Statistical analysis in R
+- Statistical analyses performed in R
+
+---
+
+## Key Results
+
+After quality filtering, the final dataset contained:
+
+- 106 microbial samples
+- 3,752 microbial genera
+
+Major findings included:
+
+- Significant differences in alpha diversity by site, year, and season.
+- Higher Shannon diversity at POSE compared to LEWI.
+- Significant differences in community composition by season and site.
+- Seasonal effects explained only a portion of microbial community variation, suggesting additional environmental drivers influence community structure.
+
+---
+
+## Repository Structure
+
+```
+analysis/
+```
+
+R scripts for data processing, statistical analyses, and figure generation.
+
+```
+figures/
+```
+
+Publication-quality figures used in the manuscript.
+
+```
+manuscript/
+```
+
+Final capstone manuscript.
+
+```
+data/
+```
+
+Documentation describing the publicly available NEON data source.
+
+---
 
 ## Skills Demonstrated
 
 - R Programming
-- Data Cleaning
 - Statistical Analysis
+- Data Cleaning
 - Data Visualization
-- Microbial Ecology
 - Community Ecology
-- Scientific Writing
+- Microbial Ecology
 - Reproducible Research
+- Scientific Writing
+
+---
 
 ## Authors
 
@@ -48,3 +112,9 @@ National Ecological Observatory Network (NEON)
 - Delanie Dickson
 - Azriella Turkdogan
 - Tyler Jernigan
+
+---
+
+## Repository Note
+
+This repository highlights the analytical workflow and project materials developed as part of a collaborative graduate capstone completed at Arizona State University. The manuscript represents the combined contributions of all project authors.
