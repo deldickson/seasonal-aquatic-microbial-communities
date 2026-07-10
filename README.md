@@ -21,7 +21,7 @@ Samples collected between **2019 and 2024** were processed and analyzed using ec
 
 # Study Sites
 
-![Study Sites](figures/figure1_site_map.png)
+![Study Sites](figures/Figure1.png)
 
 Two NEON freshwater stream sites were included in this study:
 
@@ -83,7 +83,7 @@ Major findings included:
 
 # Alpha Diversity
 
-![Alpha Diversity](figures/Seasonal_Shannon_Diversity_By_Site.png)
+![Alpha Diversity](figures/Figure7.png)
 
 Shannon diversity analyses demonstrated significant differences among sites, years, and seasons. Across the study period, microbial diversity was consistently higher at POSE than at LEWI.
 
@@ -91,7 +91,7 @@ Shannon diversity analyses demonstrated significant differences among sites, yea
 
 # Community Composition
 
-![Community Composition](figures/pcoa_bray_curtis.png)
+![Community Composition](figures/Figure9.png)
 
 Principal Coordinates Analysis (PCoA) based on Bray–Curtis dissimilarity revealed differences in microbial community composition between study sites, with moderate seasonal clustering across years.
 
